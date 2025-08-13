@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Amit Khayargoli</h1>
-<h3 align="center">A web developer from Nepal</h3>
+<h3 align="center">**I develop things for the web**</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amitkhayargoli&label=Profile%20views&color=0e75b6&style=flat" alt="amitkhayargoli" /> </p>
 
@@ -18,8 +18,6 @@
 - 💬 Ask me about **React and Node.js**
 
 - 📫 How to reach me **khayargoliamit99@gmail.com**
-
-- ⚡ Fun fact **I develop things for the web**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
