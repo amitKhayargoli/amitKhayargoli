@@ -1,10 +1,10 @@
-<h1 align="center">
+<h3 align="center">
   <img src="https://github.com/user-attachments/assets/637c99d9-3eb0-49c1-ac3a-c9d32bb400c0"> Greetings!
-</h1>
+</h3>
 
-<h2 align="center">
+<h3 align="center">
   I build things for the web
-</h2>
+</h3>
 
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="1280">
 
