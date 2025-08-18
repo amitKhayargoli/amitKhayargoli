@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Amit Khayargoli</h1>
 <h2 align="center">I develop things for the web</h2>
+<img width="800" height="600" alt="image" src="https://github.com/user-attachments/assets/37376b64-883f-4035-8419-d3ebc28b06f1" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amitkhayargoli&label=Profile%20views&color=0e75b6&style=flat" alt="amitkhayargoli" /> </p>
 
