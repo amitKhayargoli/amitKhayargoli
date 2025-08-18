@@ -1,15 +1,15 @@
 <h1 align="center">
-  <code>Hi <img src="https://github.com/user-attachments/assets/637c99d9-3eb0-49c1-ac3a-c9d32bb400c0"> I'm Amit Khayargoli</code>
+  Hi <img src="https://github.com/user-attachments/assets/637c99d9-3eb0-49c1-ac3a-c9d32bb400c0"> I'm Amit Khayargoli
 </h1>
 
 <h2 align="center">
-  <code>I build things for the web</code>
+  I build things for the web
 </h2>
 
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="1280">
 
 <h3 align="left">
-  <code>Languages and Tools:</code>
+  Languages and Tools:
 </h3>
 
 
