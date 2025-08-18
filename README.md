@@ -1,7 +1,7 @@
 <h1 align="center" style="font-family: monospace;">
-  Hi <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" 
-  alt="Waving Hand" width="35" height="35" />, I'm Amit Khayargoli
+  Hi ![241763891-7bb1e704-6026-48f9-8435-2f4d40101348](https://github.com/user-attachments/assets/6afa6067-fa9d-4315-a6a4-66a4a1ec3283) I'm Amit Khayargoli
 </h1>
+
 
 <h2 align="center" style="font-family: monospace;">
   I develop things for the web
