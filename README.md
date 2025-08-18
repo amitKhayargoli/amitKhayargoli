@@ -1,6 +1,5 @@
 <h1 align="center" style="font-family: monospace;">
-  Hi ![241763891-7bb1e704-6026-48f9-8435-2f4d40101348](https://github.com/user-attachments/assets/637c99d9-3eb0-49c1-ac3a-c9d32bb400c0)
- I'm Amit Khayargoli
+  Hi <img src= "https://github.com/user-attachments/assets/637c99d9-3eb0-49c1-ac3a-c9d32bb400c0.gif"> I'm Amit Khayargoli
 </h1>
 
 
