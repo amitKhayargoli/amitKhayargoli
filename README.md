@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://github.com/user-attachments/assets/637c99d9-3eb0-49c1-ac3a-c9d32bb400c0"> Namaste
+  <img src="https://github.com/user-attachments/assets/637c99d9-3eb0-49c1-ac3a-c9d32bb400c0"> Greetings!
 </h1>
 
 <h2 align="center">
