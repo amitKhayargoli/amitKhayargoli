@@ -1,13 +1,13 @@
-<h1 align="center" style="font-family: cursive;">
+<h1 align="center" style="font-family: monospace;">
   Hi <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" 
   alt="Waving Hand" width="35" height="35" />, I'm Amit Khayargoli
 </h1>
 
-<h2 align="center" style="font-family: cursive;">
+<h2 align="center" style="font-family: monospace;">
   I develop things for the web
 </h2>
 
-<h3 align="left" style="font-family: cursive;">
+<h3 align="left" style="font-family: monospace;">
   Languages and Tools:
 </h3>
 
