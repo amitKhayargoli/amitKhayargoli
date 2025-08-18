@@ -4,7 +4,7 @@
 
 
 <h2 align="center" style="font-family: monospace;">
-  I develop things for the web
+  I build things for the web
 </h2>
 
 <h3 align="left" style="font-family: monospace;">
