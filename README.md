@@ -1,5 +1,5 @@
 <h1 align="center">
-  Hi <img src="https://github.com/user-attachments/assets/637c99d9-3eb0-49c1-ac3a-c9d32bb400c0"> I'm Amit Khayargoli
+  <img src="https://github.com/user-attachments/assets/637c99d9-3eb0-49c1-ac3a-c9d32bb400c0"> Namaste
 </h1>
 
 <h2 align="center">
