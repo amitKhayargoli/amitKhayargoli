@@ -25,9 +25,4 @@
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/de038172-e903-4951-926c-755878deb0b4" width="100">
 </div>
 
-
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amitkhayargoli&show_icons=true&locale=en&layout=compact&theme=dark" alt="amitkhayargoli" />
-</p>
-
  
