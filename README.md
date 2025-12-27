@@ -20,4 +20,8 @@
 </p>
 
 
-[![GitHub Streak](https://github-readme-stats-fast.vercel.app/api/streak?username=amitKhayargoli&theme=radical)](https://github.com/amitKhayargoli/github-readme-stats-fast)
+<div align="center">
+  <a href="https://github.com/amitKhayargoli/github-readme-stats-fast">
+    <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=amitKhayargoli&theme=radical" alt="GitHub Streak" />
+  </a>
+</div>
