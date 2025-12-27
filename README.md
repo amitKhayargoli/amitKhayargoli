@@ -19,6 +19,5 @@
 <img height="100" src="https://media.giphy.com/media/IdyAQJVN2kVPNUrojM/giphy.gif">
 </p>
 
- 
-![Amit's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=amitKhayargoli&show_icons=true&theme=radical)
+
 [![GitHub Streak](https://github-readme-stats-fast.vercel.app/api/streak?username=amitKhayargoli&theme=radical)](https://github.com/amitKhayargoli/github-readme-stats-fast)
